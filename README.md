@@ -13,8 +13,8 @@ Skills:  REACT / JS / HTML / CSS / BOOTSTRAP / JEQUERY / NODE.JS
 - 🌱 I’m currently learning javascript 
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with Google 
-- 💬 Ask me about How I became a web developer 
-- 📫 How to reach me: https://www.facebook.com/jewelsalman3242 
+- 💬 Ask me about html/css/javascript/node.js/mongo DB/react 
+- 📫 How to reach me: jewelsalman3242@gmail.com
 - ⚡ Fun fact: football,crecket,volyball,swimming,driving 
 
 
